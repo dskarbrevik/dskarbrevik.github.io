@@ -7,7 +7,7 @@
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
   background-color: #fff;
-  background-image: url("./banner.jpg");
+  /* background-image: url("../pictures/banner.jpg"); */
 }
 @media (min-width: 768px) {
   .jumbotron {
