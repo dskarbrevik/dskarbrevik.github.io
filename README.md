@@ -2,4 +2,4 @@
 
 ### This is the repo for my personal data science portfolio website.
 
-### To view my portfolio website: <a href="https://dskarbrevik.github.io/">click here</a>
+### To view my portfolio website: <a href="https://www.skarbrevik.com/">click here</a>
