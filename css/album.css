@@ -2,17 +2,26 @@
   --jumbotron-padding-y: 3rem;
 }
 
-/* .bg{
+.bg {
+    /* The image used */
+    background-image: url("../pictures/davi5.jpg");
 
+    /* Full height */
+    /* height: 100%; */
 
-} */
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    resize: both;
+}
 
 .jumbotron {
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
-  background-color: rgba(34,69,124,0.8);
-  background-image: url("../pictures/davi5.jpg");
+  background-color: transparent;
+  /* background-image: url("../pictures/davi5.jpg"); */
   background-size: 100% 100%;
 }
 
